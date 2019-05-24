@@ -1,2 +1,4 @@
-# bad
-Bad project name ideas
+
+# Bad project name ideas
+
+- dystopia
