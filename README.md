@@ -11,3 +11,4 @@
 - blackhole
 - glib
 - psychopath
+- faust
