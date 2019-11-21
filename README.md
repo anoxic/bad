@@ -12,3 +12,4 @@
 - glib
 - psychopath
 - faust
+- panolith
